@@ -5,4 +5,3 @@
 ## Live Page
 
 https://fm-card-component-sigma.vercel.app/
-(unfinished)
