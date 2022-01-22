@@ -2,6 +2,6 @@
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
-## Live Page
+## [Live Page](https://fm-card-component-sigma.vercel.app/)
 
-https://fm-card-component-sigma.vercel.app/
+Simple layout excercise.
